@@ -1,0 +1,8 @@
+
+<http://example2.com/> <http://www.w3.org/2002/07/owl#sameAs> <http://example6.com/> .
+
+<http://example3.com/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://example.com/> .
+
+<http://example4.com/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://example.com/> .
+
+<http://example5.com/> <http://www.w3.org/2002/07/owl#sameAs> <http://example1.com/> .
