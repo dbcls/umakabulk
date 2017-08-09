@@ -27,7 +27,7 @@ To generate an Eclipse project (can be imported into Eclipse later, with File/Im
 Define environment variables in script/config.sh.
 We have to define at least 2 variables:
 
-- CSV_FILE_PATH: A path of csv which contains endpoints' information.
+- CSV_FILE_PATH: A path of csv which contains endpoints' information. This csv consists of 4 columns, endpoint_id, name, url, download_url as same as https://github.com/dbcls/umakadata/blob/master/web/data/endpoints.csv.
 
 - BULKDOWNLOADS_DIR: Work directory. This tool download, extract RDF in it.
 
