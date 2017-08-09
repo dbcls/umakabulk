@@ -1,21 +1,21 @@
 # Compile instructions:
 
-1. Install scala-ide: www.scala-ide.org
-(This is a modified version of eclipse)
+1. Install jdk 1.8.*
 
-2. Install scala 2.11.7+
-
-3. Install jdk 1.8.*
-
-4. Install sbt:
+2. Install sbt:
 www.scala-sbt.org
 
-5. Run:
+3. Run:
 sbt compile
 
 To compile
 
-6. Optionally, run:
+## Optional
+
+4. Install scala-ide: www.scala-ide.org
+(This is a modified version of eclipse)
+
+5. Run:
 sbt eclipse
 
 To generate an Eclipse project (can be imported into Eclipse later, with File/Import... Existing projects into workspace)
